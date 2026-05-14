@@ -12,7 +12,6 @@
 
 &#x09;-**BUSCA.exe**
 
-* após colocá-los no mesmo diretório, coloque, se achar melhor, os arquivos de textos a serem usados nessa mesma pasta.
-* O programa também consegue encontrar os arquivos e pastas digitando o path quando solicitado dentro da aplicação.
+* após colocá-los no mesmo diretório, os arquivos de textos também podem ser colocados nessa mesma pasta.
 * agora é só abrir o executável "BUSCA.exe"
 
